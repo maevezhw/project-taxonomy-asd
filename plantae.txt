@@ -1,0 +1,12 @@
+tidak ada di bumi,+,
+bagian tubuhnya bisa dibedakan,-,
+mempunyai jaringan vaskuler,--,
+Thallophyta,-+,
+Bryophyta,--+,
+menghasilkan biji,---,
+Pteridophyta,---+,
+menghasilkan biji tertutup,----,
+Gymnospermae,----+,
+bijinya berkeping dua,-----,
+Angiospermae - Dikotil,------,
+Angiospermae - Monokotil,-----+

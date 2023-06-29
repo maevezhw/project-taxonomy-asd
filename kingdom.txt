@@ -1,0 +1,10 @@
+tidak ada di bumi,+,
+punya membran inti,-,
+Monera,-+,
+bukan merupakan unisel atau multisel,--,
+Protista,--+,
+tidak berhifa,---,
+Fungi,---+,
+membuat makanan sendiri,----,
+Animalia,----+,
+Plantae,-----
